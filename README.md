@@ -1,3 +1,3 @@
 # SP-Project
 
-![Certificate](Icy Tower Certificate.jpg)
+![Certificate](Icy%20Tower%20Certificate.jpg)
